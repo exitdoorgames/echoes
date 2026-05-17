@@ -1,0 +1,6 @@
+# Godot editor import metadata — not needed at runtime.
+*.import
+
+# Local server logs, OS noise.
+*.log
+.DS_Store
